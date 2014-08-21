@@ -9,6 +9,7 @@
   "author": "",
   "license": "copyright thomas cook",
   "dependencies": {
+    "dnsd": "git://github.com/KrishnaSwathi/dnsd.git#master",
     "node-uuid": "^1.4.1"
   }
 }
